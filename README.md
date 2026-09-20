@@ -1,3 +1,3 @@
 # first_demo
 this is my first git repository
-Author-Akriti Saxena
+,Author-Akriti Saxena
